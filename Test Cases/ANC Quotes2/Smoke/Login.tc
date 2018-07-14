@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecd9cfa6-1acf-442d-a2b6-6c505d372a8d</testCaseGuid>
+   <variable>
+      <defaultValue>'https://qa.leap.schneider-electric.com/ANCQuotesCommon/Login.aspx'</defaultValue>
+      <description></description>
+      <id>5b23c6ac-3ae6-4b83-9b20-84768fd7ad8a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'sesa459278'</defaultValue>
+      <description></description>
+      <id>00710af3-6b15-414f-9b5e-8681b0db3e36</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'outsystems'</defaultValue>
+      <description></description>
+      <id>1eb6c3e7-c2ac-4ce5-bf39-62690fb4d94a</id>
+      <masked>true</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

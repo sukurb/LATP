@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Country</name>
+   <tag></tag>
+   <elementGuidId>be0bfcd1-4701-44fc-a21d-ca2cc4ee61fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@name = 'ANCQuotesCommon_wt15$block$wtMainContent$wt5$wtRegions' and @id = 'ANCQuotesCommon_wt15_block_wtMainContent_wt5_wtRegions' and (text() = '
+	ASEAN
+	CHINA
+	EMEA
+	INDIA 
+	JAPAN
+	LAM
+	NAM
+	PACIFIC 
+	ROA
+	RUSSIA 
+
+' or . = '
+	ASEAN
+	CHINA
+	EMEA
+	INDIA 
+	JAPAN
+	LAM
+	NAM
+	PACIFIC 
+	ROA
+	RUSSIA 
+
+')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[contains(@id,'Regions')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ANCQuotesCommon_wt15$block$wtMainContent$wt5$wtRegions</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ANCQuotesCommon_wt15_block_wtMainContent_wt5_wtRegions</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>36</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>OsAjax(arguments[0] || window.event,'ANCQuotesCommon_wt15_block_wtMainContent_wt5_wtRegions','ANCQuotesCommon_wt15$block$wtMainContent$wt5$wtRegions','Change','__OSVSTATE,','');</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>this.onchange();</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	ASEAN
+	CHINA
+	EMEA
+	INDIA 
+	JAPAN
+	LAM
+	NAM
+	PACIFIC 
+	ROA
+	RUSSIA 
+
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ANCQuotesCommon_wt15_block_wtMainContent_wt5_wtRegions&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

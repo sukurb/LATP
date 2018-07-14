@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Another Month Arrow</name>
+   <tag></tag>
+   <elementGuidId>b1e901ea-02e6-4cdf-8c2d-3c1aa94ac567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;ANCQuotesCommon_wt15_block_wtMainContent_wt7_wtMonthSelect&quot;)/div[@class=&quot;ms-parent&quot;]/button[@class=&quot;ms-choice&quot;]/div[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'QuotesSummaryHeaderOptn')]//select[contains(@name,'MonthsList')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ANCQuotesCommon_wt15_block_wtMainContent_wt7_wtMonthSelect&quot;)/div[@class=&quot;ms-parent&quot;]/button[@class=&quot;ms-choice&quot;]/div[1]</value>
+   </webElementProperties>
+</WebElementEntity>
